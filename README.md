@@ -16,10 +16,4 @@
 - Scanner 控制台输入
 - 循环菜单 + switch 控制流程
 
-## 运行截图
-（你可以把之前运行的截图上传到仓库，然后在这里放链接或直接嵌入）
 
-## 如何运行
-1. 克隆本仓库
-   ```bash
-   git clone https://github.com/kaibaisang/student-management-system.git
