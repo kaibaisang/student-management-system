@@ -22,4 +22,4 @@
 ## 如何运行
 1. 克隆本仓库
    ```bash
-   git clone https://github.com/你的用户名/student-management-system.git
+   git clone https://github.com/kaibaisang/student-management-system.git
